@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་ཅེས་བྱ་བ་བཞུགས་སོ། །
+  authors:
+  - མཛད་པ་པོ། བྲམ་ཟེ་ཨཱརྻ་དེ་བ།
+  sku: LS-CHD-07-01
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - yigchung
+web_metadata:
+  title:
+    en: A Commentary on the Perfection of Wisdom Sutra
+    bo: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་ཅེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Chod Series–  Book 7-1
+    bo: གཅོད་ཡུལ།–  དེབ། ༧-༡
+  author:
+    en: Aryadeva
+    bo: བྲམ་ཟེ་ཨཱརྻ་དེ་བ།
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-CHD-07-01
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-CHD-07-01.epub
+  description:
+    en: ''
+    bo: ''
