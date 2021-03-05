@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000095
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་ཅེས་བྱ་བ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། བྲམ་ཟེ་ཨཱརྻ་དེ་བ།
-  sku: LS-CHD-07-01
   layers:
   - book_title
   - author
   - chapter_title
   - yigchung
+  id: LS-CHD-07-01
 web_metadata:
   title:
     en: A Commentary on the Perfection of Wisdom Sutra
